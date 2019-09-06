@@ -1,0 +1,7 @@
+weights:[5,10,44,22,35,24]
+values:[34,23,33,17,10,28]
+capacity:60
+profit:92
+problemID:173-0.43-0.64
+region:phaseT
+solution:0

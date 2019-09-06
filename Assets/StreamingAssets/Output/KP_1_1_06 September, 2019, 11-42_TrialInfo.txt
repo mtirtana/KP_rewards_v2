@@ -1,0 +1,5 @@
+PartcipantID:1
+RandID:1
+InitialTimeStamp:11-42-24-743
+block;trial;answer;correct;timeSpent;itemsSelected;finalvalue;finalweight;ReverseButtons;instanceNumber;pay;xyCoordinates;
+1;1;0;0;5.194448;;0;0;1;13;0;(-623,290)(-269,290)(-92,-350)(85,290)(-269,-190)(262,130)

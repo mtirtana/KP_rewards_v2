@@ -1,0 +1,7 @@
+weights:[29,24,24,44,3,40]
+values:[3,5,49,27,39,5]
+capacity:73
+profit:113
+problemID:32-0.45-0.89
+region:overconstrained
+solution:1
